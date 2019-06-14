@@ -1,9 +1,9 @@
-h=input()
-c=0
-for i in h:
+p=input()
+d=0
+for i in p:
   if(i=='a' or i=='e' or i=='i' or i=='u' or i=='o'):
     print("yes")
-    c=1
+    d=1
     break
-if(c==0):
+if(d==0):
   print("no")
