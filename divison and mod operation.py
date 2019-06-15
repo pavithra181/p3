@@ -1,8 +1,8 @@
-d,e,v=input().split()
-d=int(d)
-e=str(e)
-v=int(v)
-if(e=='/'):
-    print(d//v)
+p,t,f=input().split()
+p=int(p)
+t=str(t)
+f=int(f)
+if(t=='/'):
+    print(p//f)
 else:
-    print(d%v)
+    print(p%f)
