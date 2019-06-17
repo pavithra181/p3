@@ -1,3 +1,3 @@
-c=int(input())
-kelvin=c+273
-print(kelvin)
+p=int(input())
+kel=p+273
+print(kel)
