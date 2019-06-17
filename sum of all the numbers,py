@@ -1,0 +1,4 @@
+k=int(input())
+g,h,k,l=map(int,input().split())
+sum=g+h+k+l
+print(sum)
